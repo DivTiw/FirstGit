@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/AngularJSMVC/AngularJSMVC/bin
+/AngularJSMVC/AngularJSMVC/obj
+/AngularJSMVC/.vs
